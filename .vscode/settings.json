@@ -1,0 +1,15 @@
+{
+  "files.associations": {
+    "*.pill": "pillar",
+    "stdio.h": "c",
+    "my_calc.h": "c",
+    "criterion.h": "c",
+    "any": "c",
+    "bitset": "c",
+    "memory": "c",
+    "random": "c",
+    "future": "c",
+    "optional": "c",
+    "source_location": "c"
+  }
+}
